@@ -1,5 +1,5 @@
 # Mobile based Human Identification using Forehead Creases: Application and Assessment under COVID-19 Masked Face Scenarios
-![Our Pipeline](pipeline.png)
+![Our Pipeline](Pipeline.png)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 This repository contains the code implementation for our paper, which was accepted at **[WACV 2022](https://wacv2022.thecvf.com)** conference.
