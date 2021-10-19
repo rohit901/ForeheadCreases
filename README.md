@@ -2,7 +2,7 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-This repository contains the code implementation for our paper, which was accepted at **WACV 2022** conference.
+This repository contains the code implementation for our paper, which was accepted at **[WACV 2022](https://wacv2022.thecvf.com)** conference.
 
 ## Table of Contents
 - [License](#license)
