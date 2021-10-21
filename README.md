@@ -21,4 +21,6 @@ $ git clone https://github.com/rohit901/Forehead-Creases.git
 - Install the following required dependencies/prerequisite software.
   1. Anaconda: https://docs.anaconda.com/anaconda/install/index.html
   2. Pytorch: https://pytorch.org
-  3. Jupyter Lab: https://jupyter.org/install 
+  3. Jupyter Lab/Jupyter Notebook: https://jupyter.org/install
+  4. Android Studio (to install and run the data collection application): https://developer.android.com/studio
+  5. Any other missing dependencies can be installed by running `pip install <missing package name>`
