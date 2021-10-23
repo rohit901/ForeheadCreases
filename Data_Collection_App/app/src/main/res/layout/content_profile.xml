@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".DevPage"
+    tools:showIn="@layout/activity_dev_page">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <TextView
+            style="@style/headerText"
+            android:text="Connect with me"
+            android:layout_marginBottom="20dp"/>
+
+        <RelativeLayout style="@style/profileDetailsLayout">
+            <ImageView
+                android:id="@+id/nameImageView"
+                android:src="@drawable/github"
+                android:layout_height="56dp"
+                android:layout_width="56dp"
+                style="@style/profileDetailsImage" />
+
+            <TextView
+                android:id="@+id/nameTextView"
+                android:text="Github"
+                android:layout_toRightOf="@id/nameImageView"
+                style="@style/profileDetailsTextMain" />
+
+            <TextView
+                android:text="rohit901"
+                android:layout_toRightOf="@id/nameImageView"
+                style="@style/profileDetailsMiniText" />
+
+        </RelativeLayout>
+
+        <View style="@style/proifleDetailsView" />
+
+        <RelativeLayout style="@style/profileDetailsLayout">
+            <ImageView
+                android:id="@+id/twitImageView"
+                android:src="@drawable/twitter"
+                android:layout_height="56dp"
+                android:layout_width="56dp"
+                style="@style/profileDetailsImage" />
+
+            <TextView
+                android:id="@+id/twitTextView"
+                android:text="Twitter"
+                android:layout_toRightOf="@id/twitImageView"
+                style="@style/profileDetailsTextMain" />
+
+            <TextView
+                android:text="rohit901"
+                android:layout_toRightOf="@id/twitImageView"
+                style="@style/profileDetailsMiniText" />
+
+        </RelativeLayout>
+
+        <View style="@style/proifleDetailsView" />
+
+        <RelativeLayout style="@style/profileDetailsLayout">
+            <ImageView
+                android:id="@+id/linkedImageView"
+                android:src="@drawable/linkedin"
+                android:layout_height="56dp"
+                android:layout_width="56dp"
+                style="@style/profileDetailsImage" />
+
+            <TextView
+                android:id="@+id/linkedTextView"
+                android:text="Linkedin"
+                android:layout_toRightOf="@id/linkedImageView"
+                style="@style/profileDetailsTextMain" />
+
+            <TextView
+                android:text="rohit901"
+                android:layout_toRightOf="@id/linkedImageView"
+                style="@style/profileDetailsMiniText" />
+
+        </RelativeLayout>
+
+        <View style="@style/proifleDetailsView" />
+
+
+
+        <RelativeLayout style="@style/profileDetailsLayout">
+            <ImageView
+                android:id="@+id/emailImageView"
+                android:src="@drawable/ic_email"
+                style="@style/profileDetailsImage" />
+
+            <TextView
+                android:id="@+id/emailTV"
+                android:text="Email"
+                android:layout_toRightOf="@id/emailImageView"
+                style="@style/profileDetailsTextMain" />
+
+            <TextView
+                android:text="bharadwaj.rohit8@gmail.com"
+                android:layout_toRightOf="@id/emailImageView"
+                style="@style/profileDetailsMiniText" />
+
+        </RelativeLayout>
+
+        <View style="@style/proifleDetailsView" />
+
+
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

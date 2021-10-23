@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#6200EE</color>-->
+    <color name="colorPrimary">#293046</color>
+<!--    <color name="colorPrimaryDark">#3700B3</color>-->
+    <color name="colorPrimaryDark">#293046</color>
+<!--    <color name="colorAccent">#03DAC5</color>-->
+    <color name="colorAccent">#D81B60</color>
+    <color name="rippleColor">#1f000000</color>
+    <color name="rippleColor2">#33ffffff</color>
+    <color name="dialogBG">#E1E1E1</color>
+
+    <color name="background">#65828e</color>
+    <color name="main_color">#ff9a00</color>
+    <color name="secondary_color">#BDBDBD</color>
+
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+
+</resources>

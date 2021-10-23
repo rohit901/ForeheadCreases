@@ -1,0 +1,14 @@
+*.iml
+.gradle
+Data_Collection_App/local.properties
+Data_Collection_App/.idea/caches
+Data_Collection_App/.idea/libraries
+Data_Collection_App/.idea/modules.xml
+Data_Collection_App/.idea/workspace.xml
+Data_Collection_App/.idea/navEditor.xml
+Data_Collection_App/.idea/assetWizardSettings.xml
+.DS_Store
+Data_Collection_App/build
+Data_Collection_App/captures
+.externalNativeBuild
+.cxx
