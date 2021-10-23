@@ -24,3 +24,4 @@ $ git clone https://github.com/rohit901/Forehead-Creases.git
   3. Jupyter Lab/Jupyter Notebook: https://jupyter.org/install
   4. Android Studio (to install and run the data collection application): https://developer.android.com/studio
   5. Any other missing dependencies can be installed by running `pip install <missing package name>`
+- Code for the data-collection Android application can be found in folder named `Data_Collection_App`. Open this folder in Android Studio to use the application. To use this application, you would also require a backend-server with your backend API hosted. Change the API URL in the code accordingly.
