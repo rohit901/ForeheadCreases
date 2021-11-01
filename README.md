@@ -26,6 +26,7 @@ $ git clone https://github.com/rohit901/Forehead-Creases.git
   4. Android Studio (to install and run the data collection application): https://developer.android.com/studio
   5. Any other missing dependencies can be installed by running `pip install <missing package name>`
 - Code for the data-collection Android application can be found in folder named `Data_Collection_App`. Open this folder in Android Studio to use the application. To use this application, you would also require a backend-server with your backend API hosted. Change the API URL in the code accordingly.
+- Network code can be run directly in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rohit901/ForeheadCreases/blob/main/Main_Network_Code.ipynb) or by downloading `Main_Network_Code.ipynb` file and opening it locally using jupyter notebook.
 
 ## Attribution
 Camera2API and CameraX library from Android has been used to develop the data-collection Android application. Various other open-source libraries used in this project have been credited appropriately. 
