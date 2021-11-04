@@ -41,6 +41,7 @@ Bharadwaj, R., Jaswal, G., Nigam, A., & Tiwari, K. (2022). Mobile based human id
 Camera2API and CameraX library from Android has been used to develop the data-collection Android application. Various other open-source libraries used in this project have been credited appropriately. 
 
 ## Contact
+For any queries regarding code or implementation, you can reach out to me on the following places:
 - Twitter: [@rohit901](https://twitter.com/rohit901)
 - LinkedIn: [@rohit901](https://www.linkedin.com/in/rohit901/)
 - Website: [rohit901.github.io](https://rohit901.github.io)
