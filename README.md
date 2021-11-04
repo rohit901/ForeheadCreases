@@ -45,3 +45,4 @@ For any queries regarding code or implementation, you can reach out to me on the
 - Twitter: [@rohit901](https://twitter.com/rohit901)
 - LinkedIn: [@rohit901](https://www.linkedin.com/in/rohit901/)
 - Website: [rohit901.github.io](https://rohit901.github.io)
+- Mail: [bharadwaj.rohit8@gmail.com](mailto:bharadwaj.rohit8@gmail.com)
