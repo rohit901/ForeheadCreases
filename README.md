@@ -46,3 +46,8 @@ For any queries regarding code or implementation, you can reach out to me on the
 - LinkedIn: [@rohit901](https://www.linkedin.com/in/rohit901/)
 - Website: [rohit901.github.io](https://rohit901.github.io)
 - Mail: [bharadwaj.rohit8@gmail.com](mailto:bharadwaj.rohit8@gmail.com)
+
+My co-authors/supervisors can be reached at the following places:
+- Gaurav Jaswal: gauravjaswal@ee.iitd.ac.in
+- Aditya Nigam: aditya@iitmandi.ac.in
+- Kamlesh Tiwari: kamlesh.tiwari@pilani.bits-pilani.ac.in
