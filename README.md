@@ -9,6 +9,7 @@ This repository contains the code implementation for our paper, which was accept
 ## Table of Contents
 - [Abstract](#abstract)
 - [Usage](#usage)
+- [Results](#results)
 - [Database](#database)
 - [Reference](#reference)
 - [Attribution](#attribution)
@@ -30,6 +31,14 @@ $ git clone https://github.com/rohit901/Forehead-Creases.git
   5. Any other missing dependencies can be installed by running `pip install <missing package name>`
 - Code for the data-collection Android application can be found in folder named `Data_Collection_App`. Open this folder in Android Studio to use the application. To use this application, you would also require a backend-server with your backend API hosted. Change the API URL in the code accordingly.
 - Network code can be run directly in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rohit901/ForeheadCreases/blob/main/Main_Network_Code.ipynb) or by downloading `Main_Network_Code.ipynb` file and opening it locally using jupyter notebook.
+
+## Results
+|          | Subject Count | Matching Strategy | CRR(%) | EER(%) | DI   |
+|----------|:-------------:|:-----------------:|--------|:------:|------|
+| Model V1 |       75      |      Open Set     |  96.08 |  17.50 | 1.44 |
+| Model V2 |       75      |      Open Set     |  97.84 |  12.40 | 1.66 |
+| Model V1 |      247      |     Closed Set    |  97.22 |  4.46  | 1.91 |
+| Model V2 |      247      |     Closed Set    |  99.08 |  0.44  | 2.79 |
 
 ## Database
 You can access the **BITS-IITMandi-ForeheadCreases Images Database** by visiting this [website](http://ktiwari.in/projects/foreheadcreases/) and filling up the database request form. After filling the form you will receive an email acknolwedgement of your submitted responses. Allow upto one week to receive update back from us. Please cite this paper in your work if you use the database.
