@@ -36,9 +36,9 @@ $ git clone https://github.com/rohit901/Forehead-Creases.git
 |          | Subject Count | Matching Strategy | CRR(%) | EER(%) | DI   |
 |----------|:-------------:|:-----------------:|--------|:------:|------|
 | Model V1 |       75      |      Open Set     |  96.08 |  17.50 | 1.44 |
-| Model V2 |       75      |      Open Set     |  97.84 |  12.40 | 1.66 |
+| **Model V2** |       **75**      |      **Open Set**     |  **97.84** |  **12.40** | **1.66** |
 | Model V1 |      247      |     Closed Set    |  97.22 |  4.46  | 1.91 |
-| Model V2 |      247      |     Closed Set    |  99.08 |  0.44  | 2.79 |
+| __Model V2__ |      __247__      |     __Closed Set__    |  __99.08__ |  __0.44__  | __2.79__ |
 
 ## Database
 You can access the **BITS-IITMandi-ForeheadCreases Images Database** by visiting this [website](http://ktiwari.in/projects/foreheadcreases/) and filling up the database request form. After filling the form you will receive an email acknolwedgement of your submitted responses. Allow upto one week to receive update back from us. Please cite this paper in your work if you use the database.
