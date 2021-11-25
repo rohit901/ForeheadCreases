@@ -40,6 +40,8 @@ $ git clone https://github.com/rohit901/Forehead-Creases.git
 | Model V1 |      247      |     Closed Set    |  97.22 |  4.46  | 1.91 |
 | __Model V2__ |      __247__      |     __Closed Set__    |  __99.08__ |  __0.44__  | __2.79__ |
 
+Please refer to our paper for the definition of Model V1 and Model V2.
+
 ## Database
 You can access the **BITS-IITMandi-ForeheadCreases Images Database** by visiting this [website](http://ktiwari.in/projects/foreheadcreases/) and filling up the database request form. After filling the form you will receive an email acknolwedgement of your submitted responses. Allow upto one week to receive update back from us. Please cite this paper in your work if you use the database.
 
