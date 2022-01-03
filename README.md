@@ -4,8 +4,6 @@
 
 This repository contains the code implementation for our paper, which was accepted at **[WACV 2022](https://wacv2022.thecvf.com)** conference.
 
-### *The contents of this repository will be updated soon, please check back later*
-
 ## Table of Contents
 - [Abstract](#abstract)
 - [Usage](#usage)
